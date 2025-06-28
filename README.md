@@ -20,8 +20,9 @@ This project analyzes Blinkit's product-level sales and nutritional data using P
 ## 📁 Project Structure
 
 - [dashboard/blinkit_project_powerbi.pbix](dashboard/blinkit_project_powerbi.pbix) – Interactive Power BI report
-- [screenshots/blinkit_dashboard.png](screenshots/blinkit_dashboard.png) – Snapshot of the dashboard
-- [data/blinkit_data.csv](data/blinkit_data.csv) – Dataset used (optional)
+- [screenshots/blinkit_snapshot.png](screenshots/blinkit_snapshot.png) – Snapshot of the dashboard
+- [screenshots/blinkit_KPI's.png](screenshots/blinkit_KPI's.png) – Snapshot of the dashboard
+- [data/blinkit_data.csv](data/blinkit_dataset.csv) – Dataset used (optional)
 
 ---
 
